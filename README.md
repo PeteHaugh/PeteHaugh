@@ -1,29 +1,8 @@
 ### Hi there 👋
 
-<!--
-**PeteHaugh/PeteHaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#My name is Pete and I'm a software engineer with a design engineering background. I enjoy taking on challenges, learning and delivering exciting projects. I also enjoy playing music and drinking coffee as you may be able to tell by the content of this website.
 
-I'm a full stack engineer with a primary focus in Typescript, Python
+#I am confident working with Javascript (ES6+), Typescript, SQL, and Pythonas well as a large number of libraries, frameworks and APIs such as React, Express, node.js, Flask and more...
 
-I'm currently trying to improve my core skillset and learn Golang
+#Currently, I'm trying to deepen my knowledge of React frameworks and learn a bit of Golang.
 
-Please see my up to date porject work via my portfolio site -
-
-The projects on there are ever developing and being revised
-
-Project I'm currently developing:
-
-- Send it!
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
