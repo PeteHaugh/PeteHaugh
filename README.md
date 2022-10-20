@@ -6,3 +6,5 @@ I am confident working with Javascript (ES6+), Typescript, SQL and Python as wel
 
 Currently, I'm trying to deepen my knowledge of React frameworks and learn a bit of Golang.
 
+Please feel free to check out my [website](https://www.petehaugh.co.uk/) where you should find links to my most well maintained projects.
+
